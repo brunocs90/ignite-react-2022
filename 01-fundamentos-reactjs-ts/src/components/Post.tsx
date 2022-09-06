@@ -4,6 +4,7 @@ import { ChangeEvent, FormEvent, InvalidEvent, useState } from 'react';
 
 import { Avatar } from './Avatar';
 import { Comment } from './Comment';
+
 import styles from './Post.module.css';
 
 interface Author {
@@ -13,7 +14,7 @@ interface Author {
 }
 
 interface Content {
-    type: 'paragraph' | 'link';
+    type: string;
     content: string;
 }
 
