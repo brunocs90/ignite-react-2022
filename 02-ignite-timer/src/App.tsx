@@ -7,10 +7,10 @@ export function App() {
   return (
     <ThemeProvider theme={defaultTheme}>
       <GlobalStyle />
-      <Button variant='primary' />
-      <Button variant='secondary' />
-      <Button variant='sucess' />
-      <Button variant='danger' />
+      <Button variant="primary" />
+      <Button variant="secondary" />
+      <Button variant="sucess" />
+      <Button variant="danger" />
     </ThemeProvider>
   )
 }
