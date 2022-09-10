@@ -16,7 +16,7 @@ export function History() {
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Tarefa</td>
+                            <td>Tarefa 1</td>
                             <td>20 minutos</td>
                             <td>Há cerca de 2 meses</td>
                             <td>
@@ -24,7 +24,7 @@ export function History() {
                             </td>
                         </tr>
                         <tr>
-                            <td>Tarefa</td>
+                            <td>Tarefa 2</td>
                             <td>20 minutos</td>
                             <td>Há cerca de 2 meses</td>
                             <td>
@@ -32,7 +32,7 @@ export function History() {
                             </td>
                         </tr>
                         <tr>
-                            <td>Tarefa</td>
+                            <td>Tarefa 3</td>
                             <td>20 minutos</td>
                             <td>Há cerca de 2 meses</td>
                             <td>
@@ -40,7 +40,7 @@ export function History() {
                             </td>
                         </tr>
                         <tr>
-                            <td>Tarefa</td>
+                            <td>Tarefa 4</td>
                             <td>20 minutos</td>
                             <td>Há cerca de 2 meses</td>
                             <td>
@@ -48,7 +48,7 @@ export function History() {
                             </td>
                         </tr>
                         <tr>
-                            <td>Tarefa</td>
+                            <td>Tarefa 5</td>
                             <td>20 minutos</td>
                             <td>Há cerca de 2 meses</td>
                             <td>
@@ -56,7 +56,7 @@ export function History() {
                             </td>
                         </tr>
                         <tr>
-                            <td>Tarefa</td>
+                            <td>Tarefa 6</td>
                             <td>20 minutos</td>
                             <td>Há cerca de 2 meses</td>
                             <td>
@@ -64,7 +64,7 @@ export function History() {
                             </td>
                         </tr>
                         <tr>
-                            <td>Tarefa</td>
+                            <td>Tarefa 7</td>
                             <td>20 minutos</td>
                             <td>Há cerca de 2 meses</td>
                             <td>
