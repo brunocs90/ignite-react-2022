@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span>Ignite Feed</span>
+  <span>Ignite Timer</span>
 </h1>
 
 <p align="center">
@@ -20,12 +20,12 @@
 
 ## 💻 Projeto
 
-Aplicação desenvolvida durante o primeiro módulo do curso Ignite - Módulo 1 da Rocketseat. Objetivo dessa aplicação é um feed onde as pessoas podem logar e comentar os posts.
+Projeto desenvolvido durante o segundo módulo da Trilha React.js do Ignite 2022 da Rocketseat. Este projeto é um timer onde podemos especificar uma determinada tarefa escolher o tempo e iniciar o timer.
 
 ## 📟 Layout
 
 O layout das telas da aplicação foi desenvolvido pela equipe da Rocketseat através do Figma. O layout pode ser acessado através deste link:
-[**Ignite Feed**](https://www.figma.com/file/A7SaWFvjZywL0yEQOsyODE/Ignite-Feed-(Community)?node-id=0%3A1&t=FMEbEkXclOkrSIQJ-0).
+[**Ignite Timer**](https://www.figma.com/file/k6DdabCdhBtkQDlAG8y0E9/Ignite-Timer-(Community)?t=FMEbEkXclOkrSIQJ-0).
 
 ## 🚀 Tecnologias
 
