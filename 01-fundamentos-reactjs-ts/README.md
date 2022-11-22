@@ -36,8 +36,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - TypeScript
 - ReactJS
 
-```
-
 ## 📥 Instalação
 
 Faça um clone desse repositório e acesse o diretório. Em instale todas as dependências com o seguinte comando:
