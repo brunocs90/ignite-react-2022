@@ -31,10 +31,13 @@ O layout das telas da aplicação foi desenvolvido pela equipe da Rocketseat atr
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- TypeScript
-- ReactJS
+- [Vite](https://vitejs.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Phosphor-react](https://phosphoricons.com/)
+
+```bash
+npm create vite@latest
+```
 
 ## 📥 Instalação
 
@@ -44,7 +47,7 @@ Faça um clone desse repositório e acesse o diretório. Em instale todas as dep
 npm i
 ```
 
-Em seguida execute o servidor rodando
+Em seguida execute o comando
 ```bash
 npm run dev
 ```
