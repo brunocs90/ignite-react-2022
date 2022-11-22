@@ -31,10 +31,12 @@ O layout das telas da aplicação foi desenvolvido pela equipe da Rocketseat atr
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- TypeScript
-- ReactJS
+- [Vite](https://vitejs.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [React Hook Form](https://react-hook-form.com/)
+- [Zod](https://zod.dev/)
+- [Styled Components](https://styled-components.com/)
+- [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)
 
 ## 📥 Instalação
 
