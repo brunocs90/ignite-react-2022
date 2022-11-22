@@ -24,11 +24,11 @@ Este repositório contém os projetos desenvolvidos durante o curso de Ignite da
 ## 🚀 Índice
 
 ### Projeto 01
-- [Fundamentos do ReactJS](https://github.com/brunocs90/ignite-react-2022/tree/main/01-fundamentos-reactjs-ts)
+- [Fundamentos do ReactJS - Todo-list](https://github.com/brunocs90/ignite-react-2022/tree/main/01-fundamentos-reactjs-ts)
 - [Desafio: Praticando os conceitos do ReactJS](https://github.com/brunocs90/ignite-react-2022-desafios/tree/main/Desafio-01-todo-list)
 
 ### Projeto 02
-- [Criando SPAs com ReactJS](https://github.com/brunocs90/ignite-react-2022/tree/main/02-ignite-timer)
+- [Criando SPAs com ReactJS - Ignite-timer](https://github.com/brunocs90/ignite-react-2022/tree/main/02-ignite-timer)
 - [Desafio: Coffee Delivery](https://github.com/brunocs90/ignite-react-2022-desafios/tree/main/Desafio-02-coffee-delivery)
 
 ### Projeto 03
