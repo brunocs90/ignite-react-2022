@@ -32,7 +32,7 @@ Este repositório contém os projetos desenvolvidos durante o curso de Ignite da
 - [Desafio: Coffee Delivery](https://github.com/brunocs90/ignite-react-2022-desafios/tree/main/Desafio-02-coffee-delivery)
 
 ### Projeto 03
-- [Consumo de API e performance no ReactJS]()
+- [Consumo de API e performance no ReactJS - DT Money](https://github.com/brunocs90/ignite-react-2022/tree/main/03-dt-money)
 - [Desafio: Github Blog]()
 
 ## 📥 Instalação
